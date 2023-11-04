@@ -1,4 +1,4 @@
-# OpenIA-Fronten - Explorando novas tecnologias
+# OpenIA-Frontend - Explorando novas tecnologias
 Projeto utilizando OpenAI
 
 
